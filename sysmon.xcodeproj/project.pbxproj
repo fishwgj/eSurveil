@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F230C6C1174F0AD000DACD2B /* interp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = interp.c; sourceTree = "<group>"; };
+		F230C6C2174F0B3C00DACD2B /* makefile */ = {isa = PBXFileReference; explicitFileType = sourcecode.make; fileEncoding = 4; path = makefile; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F230C6B6174F090100DACD2B = {
 			isa = PBXGroup;
 			children = (
+				F230C6C2174F0B3C00DACD2B /* makefile */,
+				F230C6C1174F0AD000DACD2B /* interp.c */,
 			);
 			sourceTree = "<group>";
 		};
